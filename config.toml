@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian  Stage teste qwewqse"
+baseURL = "https:\/\/weqrde.xcv"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
